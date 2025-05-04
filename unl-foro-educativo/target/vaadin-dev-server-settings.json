@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/juan/Descargas/unl-foro-educativo/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/juan/Descargas/unl-foro-educativo/src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/juan/Descargas/unl-foro-educativo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/juan/Descargas/unl-foro-educativo/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/juan/Descargas/unl-foro-educativo/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/juan/Descargas/unl-foro-educativo/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/juan/Descargas/unl-foro-educativo/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/juan/Descargas/unl-foro-educativo/src/main/frontend/generated/jar-resources",
+  "themeName": "default",
+  "clientServiceWorkerSource": "/home/juan/Descargas/unl-foro-educativo/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
